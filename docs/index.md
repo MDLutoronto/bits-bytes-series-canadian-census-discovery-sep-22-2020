@@ -26,4 +26,4 @@ Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/suppor
   
  
 
-Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data)
+Technique: [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data)
