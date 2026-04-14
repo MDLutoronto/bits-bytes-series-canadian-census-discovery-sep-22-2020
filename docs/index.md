@@ -22,3 +22,5 @@ This talk introduces the Canadian Census Discovery Portal project, an initiative
 [Link to Recording - 48:24](https://play.library.utoronto.ca/0df06b440f522619e3757c6545c03bc9) 
 
 Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
+
+Technique: [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data)
